@@ -1,0 +1,101 @@
+codigo;nome;documento;fone;celular;email;rua;bairro;complemento;numero;cidade;estado
+1;Venus G. Warren;1607033072799;(17) 6029-8750;(05) 6600-6976;nec.ante@mipede.co.uk;P.O. Box 797, 6990 Dolor Rd.;18202-572;Y2N 5W4;378;Jundiaí;SP
+2;Kenyon L. Nolan;1645052967599;(08) 1566-8402;(65) 3010-9712;imperdiet@lorem.org;3922 Cursus. Rd.;93226-217;W2R 4F0;430;Santa Maria;RS
+3;Emerald N. Weber;1643040501999;(43) 4318-0630;(01) 9089-8828;In.faucibus@egetmetus.net;196-3594 Magna Street;63764-128;Z0X 8I4;623;Juazeiro do Norte;Ceará
+4;Rae U. Mckee;1671100385099;(72) 6667-8207;(94) 9119-8038;Maecenas@convallisligula.ca;Ap #964-2423 At Avenue;58430-808;W2P 7Z4;466;Cajazeiras;Paraíba
+5;Chiquita E. Mccoy;1670100363599;(62) 9336-0154;(16) 4552-8091;nec.enim.Nunc@egestasrhoncus.edu;P.O. Box 158, 9823 Congue St.;37518592;N4R 4L7;566;Ribeirão das Neves;Minas Gerais
+6;Clayton X. Cooley;1601091993399;(71) 4448-2658;(14) 8818-3111;parturient.montes.nascetur@laoreetipsumCurabitur.net;3983 Enim. Street;87704-107;K1C 5R8;725;Cascavel;PR
+7;George Q. Abbott;1666040794299;(09) 3268-9292;(60) 1069-4303;metus.In@vestibulumMauris.edu;341-8666 Eleifend St.;53216-678;P4X 5X1;561;Petrolina;PE
+8;Omar P. Byers;1648072005199;(46) 1658-9393;(66) 3103-0343;sem.eget@lectus.org;838-1446 Pede. Avenue;13395-338;N9A 3R4;73;Ribeirão Preto;SP
+9;Caesar X. Parrish;1613020173399;(07) 2970-0080;(20) 5122-1055;ut@ipsum.net;Ap #121-2579 Morbi Rd.;45696-935;L1V 7S7;521;Lauro de Freitas;Bahia
+10;Patrick W. Chen;1673050771299;(63) 9440-7944;(41) 6123-4568;sed.facilisis.vitae@idblandit.org;Ap #707-3034 Ut Street;65892-444;J3V 3N6;606;São Luís;Maranhão
+11;Elton X. Chase;1608052173199;(01) 8586-6091;(37) 8611-2127;Donec.tempus@inconsectetueripsum.com;Ap #783-8210 Rhoncus. Street;76713-672;S8Y 3T5;64;Luziânia;GO
+12;Neil Y. Coleman;1650110881799;(96) 6260-5433;(88) 3474-0987;urna.Nunc.quis@velpede.org;Ap #668-9861 Nunc Av.;67180-081;U8W 3Y0;23;Marabá;PA
+13;Kerry Z. Bradshaw;1618120224499;(61) 6417-2965;(62) 1975-6482;;P.O. Box 664, 5441 Nullam St.;16682-474;Q3O 0E7;178;Guarulhos;São Paulo
+14;Caleb F. Olsen;1645080280899;(71) 3669-5706;(03) 7211-7371;facilisis.magna@enimdiamvel.ca;232-5231 A, Av.;23532-866;B5Q 5R2;122;Campos dos Goytacazes;RJ
+15;Anthony R. Dominguez;1639050305199;(30) 4765-3199;(78) 9489-6500;nec.eleifend.non@venenatislacus.net;P.O. Box 461, 7183 Amet Av.;26673-423;V3R 0V5;123;Niterói;Rio de Janeiro
+16;Madonna P. Daniel;1697061366399;(54) 6762-3603;(23) 4746-1012;facilisis@tortor.com;Ap #986-5577 Nunc. Av.;83714-379;E1C 1T5;658;Colombo;Paraná
+17;Armando A. Bender;1629040858999;(66) 1050-4085;(80) 2949-2775;in.felis@sitametante.org;Ap #492-5190 Dolor. Street;38324832;F8L 1Z5;485;Contagem;Minas Gerais
+18;Bert Y. Parsons;1669041885999;(58) 8059-4446;(17) 7844-6497;tincidunt@varius.net;Ap #303-9964 Nam St.;12190-561;J4B 8I9;62;Jundiaí;SP
+19;Alden P. Barry;1602050551199;(09) 9198-6957;(69) 6714-8809;nunc.interdum@lectus.ca;Ap #328-3351 Nulla. Rd.;25644-045;A8P 8F1;121;Petrópolis;Rio de Janeiro
+20;Candace M. Santana;1613102861899;(39) 7742-5502;(65) 3296-6960;dignissim.pharetra.Nam@justo.edu;Ap #785-6141 Semper Road;13036-565;D4Y 0K9;168;Osasco;SP
+21;Reed Z. Jennings;1638071864299;(53) 3014-6812;(98) 6303-5144;orci.lacus@Aliquameratvolutpat.ca;199-3657 Tortor. Rd.;83359-126;H9O 1E2;366;Londrina;PR
+22;Aurelia S. Sharpe;1602121773799;(95) 2694-3135;(50) 9301-5712;Aliquam.tincidunt.nunc@arcuVivamus.com;938 Sed Av.;39817438;R5S 7D4;257;Uberlândia;MG
+23;Hedley H. Vargas;1645062607099;(90) 4077-2103;(78) 3323-0567;;Ap #313-8501 Dui Street;95268-430;T0L 0C5;434;Porto Alegre;Rio Grande do Sul
+24;Kadeem Z. Sampson;1694121829499;(29) 1395-0493;(61) 8018-9457;Maecenas.mi.felis@necanteMaecenas.co.uk;P.O. Box 846, 6993 Ornare Av.;65508-219;W7J 1P3;579;Santa Inês;Maranhão
+25;Emi B. Burke;1671032692199;(21) 5509-0769;(71) 1749-6198;sed.dolor.Fusce@magnaSuspendissetristique.ca;Ap #125-5971 Felis Rd.;18598-150;I8W 3I3;371;Osasco;São Paulo
+26;Fallon R. Lyons;1659050895499;(31) 1140-6648;(19) 5677-2032;risus.quis@eu.co.uk;P.O. Box 765, 5282 Eu, Avenue;11547-191;R5Y 1K1;401;Guarulhos;São Paulo
+27;Drew E. Patterson;1641090673099;(31) 1966-7170;(35) 4144-6586;Donec.egestas.Duis@ultricesposuerecubilia.co.uk;565-7799 Donec Street;91174-520;Q3I 3Z7;360;Pelotas;Rio Grande do Sul
+28;Fatima G. Buckley;1658052265499;(50) 9753-9324;(71) 4524-5369;Aliquam.erat@quamdignissimpharetra.ca;P.O. Box 967, 8966 Curabitur St.;63916-816;C8E 9E8;168;Fortaleza;Ceará
+29;Nita X. Miranda;1683102222499;(30) 8971-0325;(63) 3345-4795;pellentesque.a.facilisis@a.com;618-9692 Eu Street;91549-866;Y8U 0I2;23;Canoas;Rio Grande do Sul
+30;Rebecca Z. Glover;1623021853999;(78) 4904-3325;(60) 3414-2676;Etiam.ligula@consequat.com;P.O. Box 509, 1229 Lacus Street;45601-984;V4H 9T2;546;Itabuna;BA
+31;Isaac C. Frost;1651032593099;(81) 7196-9872;(19) 4172-6065;conubia.nostra@elitfermentum.ca;8379 Erat. St.;82954-762;N6Z 0H4;672;Curitiba;PR
+32;Dane X. French;1670091269699;(76) 3598-1885;(11) 2994-5497;adipiscing.elit.Etiam@interdumlibero.edu;P.O. Box 418, 4184 Tincidunt. Rd.;34395630;V9C 4Y0;115;Juiz de Fora;MG
+33;Damon R. Wade;1604042340799;(60) 2013-9379;(00) 2522-7993;libero.et.tristique@ornareIn.org;9472 Aliquam St.;99691-911;O4W 4L0;427;Caxias do Sul;Rio Grande do Sul
+34;Courtney F. Pratt;1692062280799;(73) 6468-0600;(11) 8498-4192;Curabitur.consequat.lectus@semper.ca;902-8584 Scelerisque Ave;60628-537;I3N 6X0;655;Crato;CE
+35;Herrod Q. Sampson;1608122876699;(35) 8452-1578;(00) 6625-3941;sem.vitae@erat.edu;4484 Per Street;47519-480;T9I 7X5;272;Salvador;BA
+36;Belle D. Forbes;1691012807099;(61) 9262-7876;(17) 4186-0833;tristique@Nullam.edu;9345 Risus. Rd.;52179-711;I7E 4D5;678;Petrolina;PE
+37;Hayden K. Quinn;1652091192699;(07) 6288-4615;(04) 4145-4867;nunc.est.mollis@Sedauctor.net;P.O. Box 439, 4691 Quam Rd.;52702-881;A0Q 2N3;597;Jaboatão dos Guararapes;PE
+38;Madaline X. Stokes;1690092729999;(15) 7824-5461;(70) 9300-7038;et@vitaesemperegestas.edu;471-3773 Natoque Road;88142-601;X6L 3U1;706;São José;Santa Catarina
+39;Dorian T. Anthony;1657092387499;(45) 2972-9480;(61) 6993-9585;;P.O. Box 839, 641 Eu Ave;18406-082;L9M 9Z8;641;Campinas;São Paulo
+40;Linus R. Colon;1699101811299;(33) 4152-3477;(07) 4044-2943;metus.facilisis.lorem@Vivamus.ca;9583 Eu Street;65486-352;Q2A 0J4;237;Barra do Corda;MA
+41;Mark X. Hendricks;1614032614299;(65) 6554-0542;(85) 2752-9698;tellus.Suspendisse.sed@nisl.edu;2064 Dui, Av.;42953-202;I4J 7Q5;34;Itabuna;Bahia
+42;Willow A. Strickland;1662111406799;(64) 1532-2147;(68) 7385-3401;pede@arcuSedet.edu;P.O. Box 109, 829 Lorem St.;90743-238;Z6Z 7L8;485;Santa Maria;Rio Grande do Sul
+43;Jackson F. Huffman;1690090628599;(87) 2041-3769;(85) 1607-0573;Nunc.lectus.pede@nisl.net;190-1159 Sapien. Av.;34895818;D2T 4C0;588;Santa Luzia;MG
+44;Vincent D. Meyers;1643042575399;(74) 5053-1630;(66) 8733-9489;hendrerit.neque@convallisligulaDonec.net;Ap #170-2473 Metus. Rd.;83205-738;I1D 7C9;714;Colombo;Paraná
+45;Marshall N. Browning;1659121614699;(60) 6578-4417;(01) 2162-5854;vel.turpis.Aliquam@leoMorbineque.com;6162 Turpis Rd.;65730-022;I4A 9B0;475;Açailândia;Maranhão
+46;Marcia N. Kerr;1604010260899;(74) 8267-4426;(71) 5946-0113;ac.sem.ut@at.edu;789-7256 Duis Road;12270-366;E5V 7W4;342;Guarulhos;SP
+47;Maxwell A. Williamson;1699040497599;(15) 5915-2053;(64) 6318-7968;quam.elementum@aultricies.com;3606 Sagittis St.;48333-698;Y2B 3Z7;648;Feira de Santana;BA
+48;Eric G. Dudley;1607120398199;(66) 1699-9654;(37) 8206-1183;lacus@Cras.ca;3783 Enim. Ave;67255-536;P5O 3U1;287;Belém;Pará
+49;Whoopi K. Sweet;1696090710099;(27) 7861-2738;(03) 6768-4813;malesuada.malesuada.Integer@Suspendissedui.co.uk;P.O. Box 132, 2050 Tempus St.;43317-659;P7D 2L8;288;Itabuna;BA
+50;Channing Z. Alexander;1674080717199;(24) 9357-4419;(78) 4656-7196;at.egestas.a@vitae.ca;385-1477 Interdum St.;25136-317;Z5M 5E1;36;Nova Iguaçu;RJ
+51;Maxwell I. Dillon;1651090140799;(12) 1606-7050;(12) 8392-2835;adipiscing.Mauris.molestie@sitamet.ca;672 Nec Ave;66496-535;A8A 5I5;400;Belém;Pará
+52;Travis D. Robbins;1695012610099;(19) 9411-5036;(51) 6158-4945;Aliquam.nec.enim@Curabitur.org;1383 Suspendisse Ave;14421-805;U4I 3K4;272;Mogi das Cruzes;SP
+53;Adam Y. Rios;1691012063099;(81) 6051-3237;(57) 9816-0786;eget@vulputateeuodio.org;3908 Fusce St.;82495-636;P6D 5M5;329;Guarapuava;Paraná
+54;Beau J. Snyder;1619072471799;(87) 4885-7591;(85) 7388-1940;dignissim.Maecenas@tincidunt.net;Ap #777-8178 Sed Street;27942-010;R6B 7Y7;418;Campos dos Goytacazes;RJ
+55;Dana T. Shannon;1656081847799;(12) 8307-4839;(84) 6613-9500;lobortis.tellus@Duisrisusodio.co.uk;3639 Sit St.;58451-054;T3P 1N6;82;Patos;PB
+56;Oscar M. Norton;1629052493499;(71) 4705-5746;(71) 2865-6325;scelerisque.lorem.ipsum@mitempor.edu;Ap #356-7003 Aliquet St.;85933-961;I9C 0B0;508;São José dos Pinhais;Paraná
+57;Uriel K. Lawrence;1677011484899;(72) 9633-4115;(12) 1090-7185;nonummy.ut.molestie@Nunclectuspede.org;P.O. Box 771, 8640 Pede Road;14709-872;E2J 1G1;428;Jundiaí;SP
+58;Akeem U. Macdonald;1645042349899;(15) 6706-8493;(05) 5297-2900;Cras@SeddictumProin.edu;469-5633 Ultrices Street;61280-314;H5C 5X3;409;Maracanaú;Ceará
+59;Jessamine F. Burt;1671061252999;(02) 1115-7413;(24) 2014-9182;vitae.erat@vestibulumMauris.org;Ap #530-1565 Sit Road;47894-182;W3M 2S0;469;Ilhéus;BA
+60;Aphrodite I. Stein;1691011505999;(10) 7964-2732;(90) 6921-5665;Ut.tincidunt.vehicula@condimentumDonec.com;962-5297 Justo. Street;58074-204;U7C 6J1;355;Santa Rita;PB
+61;Tobias W. House;1699041839999;(08) 5143-5122;(55) 1821-9318;sem.molestie.sodales@fermentum.com;Ap #479-6712 Orci Rd.;25083-127;Q1X 0J2;353;Petrópolis;Rio de Janeiro
+62;Ruby V. Conrad;1610122046299;(11) 7836-6121;(60) 7623-7904;rhoncus.Nullam.velit@Curabiturutodio.org;337-8020 Massa Street;24129-394;Y5V 6X8;134;Duque de Caxias;Rio de Janeiro
+63;Macon K. Turner;1672110448299;(34) 8461-7555;(27) 8779-2440;dapibus.gravida@nequevitaesemper.net;P.O. Box 520, 2478 Consequat Rd.;82452-366;N7O 3B2;2;Ponta Grossa;Paraná
+64;Xena V. Harvey;1668112819999;(29) 4449-5944;(25) 8500-2330;hendrerit@lectus.org;Ap #903-6055 Aliquam Rd.;76728-362;I5V 0K7;403;Valparaíso de Goiás;GO
+65;Neve G. Sargent;1604021786699;(17) 1136-6364;(41) 5289-4989;consequat@arcuVivamussit.net;P.O. Box 267, 2495 Pellentesque St.;86461-273;O5Z 4L4;534;Curitiba;PR
+66;Daryl K. Yates;1696092229499;(40) 9782-9572;(99) 6521-1464;vitae.purus.gravida@tinciduntnibh.ca;Ap #330-4058 Sollicitudin Ave;66610-658;G2J 4F2;574;Marabá;PA
+67;Evan F. Gallegos;1656082829999;(81) 3868-5739;(36) 8553-6554;semper.auctor@a.net;P.O. Box 629, 3629 Nec Rd.;36794183;R3P 7Q2;151;Santa Luzia;MG
+68;Cleo W. Boyer;1685121296899;(45) 5244-1721;(19) 8159-7246;justo.Proin@urnaconvallis.net;159 Orci Rd.;65248-686;U4W 6G4;9;São Luís;MA
+69;Stella N. Sherman;1667050839499;(25) 9237-8705;(45) 1627-9370;ridiculus.mus@pharetra.co.uk;2692 Sociis Street;84606-309;S2J 5W6;653;Colombo;Paraná
+70;Ria U. Martin;1636100286899;(35) 1067-7210;(12) 2751-7663;auctor.velit.Aliquam@velvenenatis.edu;P.O. Box 238, 7924 Neque St.;14679-010;M7X 6Q8;410;Osasco;SP
+71;Victor O. Jennings;1673121073599;(52) 9003-3452;(79) 7304-7968;convallis.est@Sedmolestie.org;501-2949 Ac Av.;12863-581;E0X 6N8;230;Diadema;São Paulo
+72;Yoshi I. Fields;1690110322999;(89) 9534-1121;(82) 3732-3895;gravida.nunc.sed@blanditNam.com;413-8831 Nulla. Rd.;14721-678;T8H 5R4;419;Diadema;SP
+73;Aphrodite I. Rosales;1641072530599;(53) 7217-3745;(86) 2240-5628;mi.eleifend@ac.com;678-6309 Scelerisque, St.;18327-422;X2U 7E9;105;Mauá;São Paulo
+74;Yetta S. Jefferson;1660100580799;(26) 4043-6232;(67) 8376-1729;dapibus.gravida@gravidamolestiearcu.co.uk;Ap #996-5916 Eros. Ave;35946748;D7G 1N5;128;Montes Claros;MG
+75;Liberty D. Merritt;1678030518699;(35) 8677-4578;(25) 1453-1984;velit.Quisque@commodo.com;Ap #512-1927 Suspendisse St.;13143-140;V4N 7C8;479;Jundiaí;SP
+76;Yoko R. Bullock;1658111017099;(50) 8791-3266;(14) 2774-0321;odio.sagittis@enimmitempor.co.uk;Ap #849-7988 Eget, St.;44579-533;V0T 6O1;120;Ilhéus;Bahia
+77;Ainsley E. Mejia;1644091275199;(60) 1918-8639;(61) 7151-0875;ac.mattis.semper@ultricies.ca;6733 A, St.;31241360;J1V 4X4;528;Uberlândia;MG
+78;Nora Q. Booker;1648090908999;(37) 9979-1983;(98) 8892-8863;erat@porttitorvulputate.org;P.O. Box 969, 4596 Vitae, Rd.;14080-837;E5M 9I2;711;Mogi das Cruzes;SP
+79;Callum M. Stafford;1600012757199;(06) 2163-9649;(32) 7863-8813;lobortis.risus@sociisnatoquepenatibus.edu;980-2014 Augue. St.;51260-796;U2V 6I9;502;Paulista;Pernambuco
+80;Quynn V. May;1642120828699;(59) 3332-1888;(03) 4679-6238;blandit@loremacrisus.co.uk;Ap #950-1810 Vitae Rd.;58855-231;A7B 6S0;99;Campina Grande;PB
+81;Hedwig L. Carter;1623092332799;(92) 3854-8221;(60) 7156-2538;Morbi.quis.urna@nullamagnamalesuada.org;P.O. Box 904, 1693 Morbi St.;65553-267;C6T 5E4;686;Bacabal;MA
+82;Inga T. Whitney;1627042488299;(49) 8064-8119;(56) 2300-8982;ipsum.Suspendisse.non@adipiscingenim.ca;559-2441 Mi Avenue;62259-655;D1S 1A2;118;Fortaleza;CE
+83;Ivana C. Koch;1692102932399;(25) 2480-5061;(40) 6921-8889;velit.Quisque@aaliquetvel.net;487-9149 Diam Road;76758-089;L9R 6I2;701;Águas Lindas de Goiás;Goiás
+84;Fredericka R. Banks;1638071896499;(14) 2214-8504;(63) 1118-8741;aliquam.eros.turpis@Donec.edu;447-2237 Lorem, Road;81149-880;Q2L 2G4;393;Londrina;PR
+85;Catherine Q. Cote;1629021812199;(43) 5345-1646;(59) 5254-3381;in@tinciduntadipiscing.net;Ap #872-4953 Condimentum St.;19834-674;B5F 7P9;374;Piracicaba;São Paulo
+86;Kimberly Q. Hopkins;1655110907499;(07) 4992-7014;(21) 6840-9617;Fusce@penatibusetmagnis.net;887-6902 Sed, Av.;91559-769;P8B 7F1;189;Canoas;RS
+87;Colby N. Garza;1689082113399;(01) 2291-9076;(98) 3524-0791;Nunc@nonlobortisquis.edu;Ap #706-821 Id Street;28877-474;B0S 5M8;710;Campos dos Goytacazes;Rio de Janeiro
+88;Maxine D. King;1696052621899;(65) 4498-5920;(93) 2133-2619;sem@arcu.com;1008 Venenatis Rd.;96723-742;O4S 7V9;304;Pelotas;RS
+89;Regan Q. Thornton;1600051832199;(47) 3524-1478;(41) 9151-9441;tellus.justo@et.org;Ap #891-9027 Ultricies St.;13570-367;U1I 7A2;536;Guarulhos;São Paulo
+90;Declan W. Bonner;1688070604399;(68) 3509-5109;(36) 8320-1786;neque.et@dignissim.com;442-7431 Sodales St.;86118-896;W2E 4A2;290;Maringá;PR
+91;Autumn F. Washington;1675111091299;(90) 4228-0578;(67) 4658-2042;et.ipsum.cursus@nec.net;Ap #175-3119 A Rd.;40053-720;T3V 4W1;444;Juazeiro;Bahia
+92;Larissa A. Lang;1621121626999;(32) 1270-5486;(94) 8905-2397;fringilla.ornare@egetvariusultrices.edu;Ap #738-454 Aliquam Rd.;65907-209;X7Q 1A9;226;Balsas;MA
+93;Unity L. Hatfield;1667102341699;(13) 9773-4429;(62) 9433-1429;Donec.fringilla.Donec@egetmetus.net;6395 Semper Street;52955-733;K0W 2D4;243;Camaragibe;PE
+94;Sharon O. Leon;1611092451999;(82) 6195-1189;(10) 7023-6523;Donec@maurissapiencursus.edu;511-1110 Semper, Road;12608-897;G3Q 8X0;462;Jundiaí;São Paulo
+95;Larissa J. Mcclain;1645041256299;(57) 3494-7073;(79) 9808-6776;in.lobortis@nonegestas.com;P.O. Box 551, 9092 Sed, Avenue;60799-678;C8S 9W1;8;Fortaleza;Ceará
+96;Austin G. Barry;1654061371999;(90) 9579-9606;(69) 4176-6537;fermentum.metus.Aenean@ullamcorper.ca;354-9459 A, Ave;17599-984;J6P 6X5;7;Ribeirão Preto;São Paulo
+97;Sharon X. Richards;1609041951799;(16) 2342-1706;(73) 8657-1223;magna.et@elementumdui.ca;Ap #333-4257 Dis Rd.;96816-062;V7D 0G9;318;Rio Grande;RS
+98;Cleo S. Lamb;1611011977099;(92) 8734-8142;(68) 1717-8593;gravida.Aliquam@quismassa.edu;363-856 Sodales Avenue;12810-300;S4U 9D7;323;Diadema;São Paulo
+99;Yetta I. Oneal;1662090988499;(45) 3149-6092;(53) 8932-0591;Nunc.ut@cursus.com;223 Placerat. Avenue;90775-545;L1S 2Y5;552;Canoas;RS
+100;Clinton B. Gross;1683082197199;(08) 1079-4842;(74) 4607-8612;Duis.risus@sodalesat.ca;P.O. Box 224, 7988 Mauris Road;40429-482;B0W 4I3;406;Juazeiro;BA
